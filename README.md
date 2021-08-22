@@ -4,4 +4,4 @@ In this project, we intend to conduct an in-depth study in the field of referenc
 ## Papers and codes:
 paper name|Innovation method|codes
 ----|-----|------
-Robust Reference-based Super-Resolution via C2-Matching|cross transformation, cross resolution|[Code](https://github.com/yumingj/C2-Matching；https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_MASA-SR_Matching_Acceleration_and_Spatial_Adaptation_for_Reference-Based_Image_Super-Resolution_CVPR_2021_paper.pdf)
+Robust Reference-based Super-Resolution via C2-Matching|cross transformation, cross resolution|[Code](https://github.com/yumingj/C2-Matching)
