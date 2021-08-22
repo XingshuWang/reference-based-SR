@@ -9,5 +9,6 @@ Feature Representation Matters: End-to-End Learning for Reference-based Image Su
 Towards Content-Independent Multi-Reference Super-Resolution: Adaptive Pattern Matching and Feature Aggregation [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700052.pdf)| |Not found
 CrossNet: An End-to-end Reference-based Super Resolution Network using Cross-scale Warping [paper](https://arxiv.org/pdf/1807.10547.pdf)||[Code](https://github.com/htzheng/ECCV2018_CrossNet_RefSR)
 Variational AutoEncoder for Reference based Image Super-Resolution [paper](https://arxiv.org/pdf/2106.04090.pdf)||[Code](https://github.com/Holmes-Alan/RefVAE)
-MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution[paper](https://arxiv.org/pdf/2106.02299.pdf)||[Code](https://github.com/dvlab-research/MASA-SR)
-Robust Reference-based Super-Resolution with Similarity-Aware Deformable Convolution [paper]()
+MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution [paper](https://arxiv.org/pdf/2106.02299.pdf)||[Code](https://github.com/dvlab-research/MASA-SR)
+Robust Reference-based Super-Resolution with Similarity-Aware Deformable Convolution [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shim_Robust_Reference-Based_Super-Resolution_With_Similarity-Aware_Deformable_Convolution_CVPR_2020_paper.pdf)||Not found
+
