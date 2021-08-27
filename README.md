@@ -15,4 +15,7 @@ Robust Reference-based Super-Resolution with Similarity-Aware Deformable Convolu
 ## Datasets
 dataset|number|type|introduction|download
 ---|----|-----|------|-------
-CUFED|1883 albums, 30-100 images in an album|adsad|[download](https://drive.google.com/file/d/0BxBaqbArti0NMlF4aG05c3h2NU0/view)
+CUFED|1883 albums, 30-100 images in each album|Raw images|Each album describes an event. The album's event types come from 23 common events in everyday life, such as weddings and trips.|[download](https://drive.google.com/file/d/0BxBaqbArti0NMlF4aG05c3h2NU0/view)
+Urban100|100|Raw images|The content is photos of the city, generally used to test performance. LR/HR image pairs can be obtained by bicubic interpolation.|[download](https://www.kaggle.com/msahebi/super-resolution)
+DIV2K|1000|2K images|800 images for training, 100 images for validation, 100 images for testing|[download](https://drive.google.com/drive/folders/1B-uaxvV9qeuQ-t7MFiN1oEdA6dKnj2vW)
+W2S|44,000 real fluorescence microscopy images, resulting in a total of 360 sets of images|
