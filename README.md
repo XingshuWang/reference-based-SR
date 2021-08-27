@@ -12,3 +12,7 @@ Variational AutoEncoder for Reference based Image Super-Resolution [paper](https
 MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution [paper](https://arxiv.org/pdf/2106.02299.pdf)||[Code](https://github.com/dvlab-research/MASA-SR)
 Robust Reference-based Super-Resolution with Similarity-Aware Deformable Convolution [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shim_Robust_Reference-Based_Super-Resolution_With_Similarity-Aware_Deformable_Convolution_CVPR_2020_paper.pdf)||Not found
 
+## Datasets
+dataset|number|type|introduction|download
+---|----|-----|------|-------
+CUFED|1883 albums, 30-100 images in an album|adsad|[download](https://drive.google.com/file/d/0BxBaqbArti0NMlF4aG05c3h2NU0/view)
