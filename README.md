@@ -7,10 +7,10 @@ paper name|Innovation method|Code
 Robust Reference-based Super-Resolution via C2-Matching [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_MASA-SR_Matching_Acceleration_and_Spatial_Adaptation_for_Reference-Based_Image_Super-Resolution_CVPR_2021_paper.pdf)|Contrastive Correspondence Network + Teacher-Student Correlation Distillation: cross transformation, cross resolution|[Code](https://github.com/yumingj/C2-Matching)
 Feature Representation Matters: End-to-End Learning for Reference-based Image Super-resolution [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490222.pdf)|E2ENT: transfer the relevant textures from reference image to the output SR image|Not found
 Towards Content-Independent Multi-Reference Super-Resolution: Adaptive Pattern Matching and Feature Aggregation [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700052.pdf)|RP, LFE|Not found
-CrossNet: An End-to-end Reference-based Super Resolution Network using Cross-scale Warping [paper](https://arxiv.org/pdf/1807.10547.pdf)||[Code](https://github.com/htzheng/ECCV2018_CrossNet_RefSR)
+CrossNet: An End-to-end Reference-based Super Resolution Network using Cross-scale Warping [paper](https://arxiv.org/pdf/1807.10547.pdf)|image encoders + cross-scale warping layer + fusion decoders|[Code](https://github.com/htzheng/ECCV2018_CrossNet_RefSR)
 Variational AutoEncoder for Reference based Image Super-Resolution [paper](https://arxiv.org/pdf/2106.04090.pdf)||[Code](https://github.com/Holmes-Alan/RefVAE)
 MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution [paper](https://arxiv.org/pdf/2106.02299.pdf)|MASA-SR: Match & Extration Mpdule + Spatial Adaptation Module. To boost the rubustness of the network when dealing with Ref images with different distributions.|[Code](https://github.com/dvlab-research/MASA-SR)
-Robust Reference-based Super-Resolution with Similarity-Aware Deformable Convolution [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shim_Robust_Reference-Based_Super-Resolution_With_Similarity-Aware_Deformable_Convolution_CVPR_2020_paper.pdf)||Not found
+Robust Reference-based Super-Resolution with Similarity-Aware Deformable Convolution [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shim_Robust_Reference-Based_Super-Resolution_With_Similarity-Aware_Deformable_Convolution_CVPR_2020_paper.pdf)|Three layers of deformable convolution, Dynamic Offset Estimator|Not found
 
 ## Datasets
 dataset|number|type|introduction|download
