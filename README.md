@@ -4,7 +4,7 @@ In this project, we intend to conduct an in-depth study in the field of referenc
 ## Papers and codes:
 paper name|Innovation method|Code|Source
 ----|-----|------|-------
-Robust Reference-based Super-Resolution via C2-Matching [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_MASA-SR_Matching_Acceleration_and_Spatial_Adaptation_for_Reference-Based_Image_Super-Resolution_CVPR_2021_paper.pdf)|Contrastive Correspondence Network + Teacher-Student Correlation Distillation: cross transformation, cross resolution|[Code](https://github.com/yumingj/C2-Matching)|CVPR, 2021
+Robust Reference-based Super-Resolution via C2-Matching [paper](https://arxiv.org/abs/2106.01863)|Contrastive Correspondence Network + Teacher-Student Correlation Distillation: cross transformation, cross resolution|[Code](https://github.com/yumingj/C2-Matching)|CVPR, 2021
 Feature Representation Matters: End-to-End Learning for Reference-based Image Super-resolution [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490222.pdf)|E2ENT: transfer the relevant textures from reference image to the output SR image|Not found|ECCV, 2020
 Towards Content-Independent Multi-Reference Super-Resolution: Adaptive Pattern Matching and Feature Aggregation [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700052.pdf)|RP, LFE|Not found|ECCV, 2020
 CrossNet: An End-to-end Reference-based Super Resolution Network using Cross-scale Warping [paper](https://arxiv.org/pdf/1807.10547.pdf)|image encoders + cross-scale warping layer + fusion decoders. End-to-end, large-scale.|[Code](https://github.com/htzheng/ECCV2018_CrossNet_RefSR)|ECCV, 2018
