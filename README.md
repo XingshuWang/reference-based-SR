@@ -24,4 +24,7 @@ DPED|22,000|Raw images|LR images: photos taken by different smartphones. Referen
 RealSR|559 scenes (459 scenes for training & 100 scenes for testing)|Raw images|LR-HR image pairs are obtained by adjusting the focal length of the digital camera|[download](https://drive.google.com/file/d/1Iqx3AbUlLjR_JglsQIq9y9BEcrNLcOCU/view)
 Flickr2K|2650|Raw images|People, animals, landscapes|[download](https://drive.google.com/drive/folders/1B-uaxvV9qeuQ-t7MFiN1oEdA6dKnj2vW)
 Vimeo-90K|89,800|videos|It is a data set constructed by Tianfan Xue et al. for video hypersegmentation, video noise reduction, video artifact removal and video frame insertion|[download](http://toflow.csail.mit.edu/)
+## knowledge distillation methods
+SRKD: 
+teacher network: 3 parts. 1)convolution layer + ReLU  2)10 * residual blocks 3)deconvolutional layer
 
