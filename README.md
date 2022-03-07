@@ -27,5 +27,13 @@ Vimeo-90K|89,800|videos|It is a data set constructed by Tianfan Xue et al. for v
 ## knowledge distillation methods
 SRKD:  
 teacher network: 3 parts.  
-1)convolution layer + ReLU  2)10 * residual blocks 3)deconvolutional layer
+1)convolution layer + ReLU  
+2)10 * residual blocks  
+3)deconvolutional layer  
+student network: 3 parts.  
+1)convolution layer + ReLU  
+2)3 * depthwise separable block  
+3)deconvolutional layer  
+  
+  asfa
 
