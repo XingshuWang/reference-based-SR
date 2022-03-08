@@ -35,5 +35,5 @@ student network: 3 parts.
 2)3 * depthwise separable block  
 3)deconvolutional layer  
   
-  asfa
+
 
